@@ -1,2 +1,4 @@
 /AtCoderTestCase/*
 .vscode/settings.json
+rev.py
+*.txt
