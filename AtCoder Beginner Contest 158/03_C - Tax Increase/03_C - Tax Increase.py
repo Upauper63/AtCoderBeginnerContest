@@ -1,5 +1,5 @@
 import sys
-import os
+
 f = open('03_C - Tax Increase.txt', 'r')
 sys.stdin = f
 

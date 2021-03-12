@@ -1,4 +1,4 @@
-import os
+
 import sys
 f = open('04_D - Alter Altar.txt', 'r')
 sys.stdin = f

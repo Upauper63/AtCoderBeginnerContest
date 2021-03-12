@@ -1,5 +1,5 @@
 import sys
-import os
+
 f = open('02_B - Ordinary Number.txt', 'r')
 sys.stdin = f
 

@@ -1,4 +1,4 @@
-import os
+
 import sys
 f =open('02.txt', 'r')
 sys.stdin = f

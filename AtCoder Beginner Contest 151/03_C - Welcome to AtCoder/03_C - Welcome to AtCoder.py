@@ -1,5 +1,5 @@
 import sys
-import os
+
 f = open('03_C - Welcome to AtCoder.txt', 'r')
 sys.stdin = f
 

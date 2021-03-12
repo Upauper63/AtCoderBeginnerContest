@@ -1,5 +1,5 @@
 import sys
-import os
+
 f = open('04_D - Chat in a Circle.txt', 'r')
 sys.stdin = f
 

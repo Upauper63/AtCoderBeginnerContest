@@ -1,4 +1,4 @@
-import os
+
 import sys
 f = open('01_A - Rainy Season.txt', 'r')
 sys.stdin = f

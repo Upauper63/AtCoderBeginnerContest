@@ -1,12 +1,11 @@
-import os
+
 import sys
 f = open('04_D - Not Divisible.txt', 'r')
 sys.stdin = f
 
 N = int(input())
 ls = list(map(int, input().split(' ')))
-ls.sort()
-max_val = ls[-1]
+max_val = max(ls)
 cnt_ls = [0 for i in range(max_val + 1)]
 for i in ls:
     val = i

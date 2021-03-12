@@ -1,5 +1,5 @@
 import sys
-import os
+
 f = open('01_A - The Number of Even Pairs.txt', 'r')
 sys.stdin = f
 

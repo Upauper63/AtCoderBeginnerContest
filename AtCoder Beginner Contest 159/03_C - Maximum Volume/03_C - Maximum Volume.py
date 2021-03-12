@@ -1,5 +1,5 @@
 import sys
-import os
+
 f = open('03_C - Maximum Volume.txt', 'r')
 sys.stdin = f
 

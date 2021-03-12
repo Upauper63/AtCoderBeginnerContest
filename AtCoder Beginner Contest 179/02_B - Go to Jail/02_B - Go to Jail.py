@@ -1,4 +1,4 @@
-import os
+
 import sys
 f = open('02_B - Go to Jail.txt', 'r')
 sys.stdin = f

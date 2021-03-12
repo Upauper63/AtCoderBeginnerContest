@@ -1,5 +1,5 @@
 import sys
-import os
+
 f = open('08_ABC085B - Kagami Mochi.txt', 'r')
 sys.stdin = f
 

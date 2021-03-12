@@ -1,5 +1,5 @@
 import sys
-import os
+
 f = open('02_B - Strings with the Same Length.txt', 'r')
 sys.stdin = f
 

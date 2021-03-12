@@ -1,4 +1,4 @@
-import os
+
 import sys
 f = open('03_C - City Savers.txt', 'r')
 sys.stdin = f

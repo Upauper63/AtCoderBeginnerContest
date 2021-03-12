@@ -1,10 +1,10 @@
-import os
+
 import sys
 f = open('04_D - Lunlun Number.txt', 'r')
 sys.stdin = f
 
 K = int(input())
-import os
+
 import sys
 f = open('04_D - Lunlun Number.txt', 'r')
 sys.stdin = f

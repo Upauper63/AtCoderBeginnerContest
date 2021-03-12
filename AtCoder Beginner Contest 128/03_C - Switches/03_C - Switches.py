@@ -1,4 +1,4 @@
-import os
+
 import sys
 f = open('03_C - Switches.txt', 'r')
 sys.stdin = f

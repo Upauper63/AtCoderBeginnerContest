@@ -1,4 +1,4 @@
-import os
+
 import sys
 f = open('03_C - Walking Takahashi.txt', 'r')
 sys.stdin = f

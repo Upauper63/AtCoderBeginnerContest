@@ -1,5 +1,5 @@
 from collections import deque
-import os
+
 import sys
 f = open('04_D - .. (Double Dots).txt', 'r')
 sys.stdin = f

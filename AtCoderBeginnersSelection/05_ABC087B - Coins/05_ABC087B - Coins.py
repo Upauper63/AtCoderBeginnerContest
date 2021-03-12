@@ -1,4 +1,4 @@
-import os
+
 import sys
 f = open('05_ABC087B - Coins.txt', 'r')
 sys.stdin = f

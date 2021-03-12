@@ -1,5 +1,5 @@
 import sys
-import os
+
 f = open('02_B - ... (Triple Dots).txt', 'r')
 sys.stdin = f
 

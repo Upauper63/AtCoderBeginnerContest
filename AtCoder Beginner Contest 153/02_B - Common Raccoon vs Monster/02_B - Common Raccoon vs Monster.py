@@ -1,5 +1,5 @@
 import sys
-import os
+
 f = open('02_B - Common Raccoon vs Monster.txt', 'r')
 sys.stdin = f
 

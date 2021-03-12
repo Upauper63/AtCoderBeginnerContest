@@ -1,5 +1,5 @@
 import sys
-import os
+
 f = open('06_ABC083B - Some Sums.txt', 'r')
 sys.stdin = f
 

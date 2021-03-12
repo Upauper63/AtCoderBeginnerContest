@@ -1,5 +1,5 @@
 import sys
-import os
+
 f = open('01_A - 500 Yen Coins.txt', 'r')
 sys.stdin = f
 

@@ -1,4 +1,4 @@
-import os
+
 import sys
 f = open('03_C - A x B + C.txt', 'r')
 sys.stdin = f

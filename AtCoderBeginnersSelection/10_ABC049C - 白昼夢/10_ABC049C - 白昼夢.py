@@ -1,5 +1,5 @@
 import sys
-import os
+
 f = open('10_ABC049C - 白昼夢.txt', 'r')
 sys.stdin = f
 

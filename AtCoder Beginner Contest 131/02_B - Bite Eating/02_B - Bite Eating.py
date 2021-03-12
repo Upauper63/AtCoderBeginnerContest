@@ -1,5 +1,5 @@
 import sys
-import os
+
 f = open('02_B - Bite Eating.txt', 'r')
 sys.stdin = f
 

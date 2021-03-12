@@ -1,5 +1,5 @@
 import sys
-import os
+
 f = open('02_B - Count ABC.txt', 'r')
 sys.stdin = f
 

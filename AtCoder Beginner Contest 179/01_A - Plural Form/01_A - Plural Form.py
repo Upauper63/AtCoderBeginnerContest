@@ -1,4 +1,4 @@
-import os
+
 import sys
 f = open('01_A - Plural Form.txt', 'r')
 sys.stdin = f

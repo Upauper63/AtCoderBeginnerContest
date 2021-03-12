@@ -1,5 +1,5 @@
 import sys
-import os
+
 f = open('03_C - H and V.txt', 'r')
 sys.stdin = f
 

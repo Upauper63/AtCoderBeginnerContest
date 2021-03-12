@@ -1,4 +1,4 @@
-import os
+
 import sys
 f = open('03_C - Remainder Minimization 2019.txt', 'r')
 sys.stdin = f

@@ -1,5 +1,5 @@
 import sys
-import os
+
 f = open('03_C - Count Order.txt', 'r')
 sys.stdin = f
 

@@ -1,5 +1,5 @@
 import sys
-import os
+
 f = open('02_B - 0 or 1 Swap.txt', 'r')
 sys.stdin = f
 

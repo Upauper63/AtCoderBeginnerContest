@@ -1,4 +1,4 @@
-import os
+
 import sys
 f = open('03_C - One Quadrillion and One Dalmatians.txt', 'r')
 sys.stdin = f

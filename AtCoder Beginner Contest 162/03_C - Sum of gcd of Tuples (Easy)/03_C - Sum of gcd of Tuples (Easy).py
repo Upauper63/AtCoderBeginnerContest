@@ -1,5 +1,5 @@
 import sys
-import os
+
 f = open('03_C - Sum of gcd of Tuples (Easy).txt', 'r')
 sys.stdin = f
 

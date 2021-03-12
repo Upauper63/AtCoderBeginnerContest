@@ -1,4 +1,4 @@
-import os
+
 import sys
 f = open('04_ABC081B - Shift only.txt', 'r')
 sys.stdin = f

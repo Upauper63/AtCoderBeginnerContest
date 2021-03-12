@@ -1,5 +1,5 @@
 import sys
-import os
+
 f = open('03_C - Tsundoku.txt', 'r')
 sys.stdin = f
 

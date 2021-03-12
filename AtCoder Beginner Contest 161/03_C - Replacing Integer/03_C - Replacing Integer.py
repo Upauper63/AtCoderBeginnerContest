@@ -1,5 +1,5 @@
 import sys
-import os
+
 f = open('03_C - Replacing Integer.txt', 'r')
 sys.stdin = f
 

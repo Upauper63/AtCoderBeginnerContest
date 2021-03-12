@@ -1,5 +1,5 @@
 import sys
-import os
+
 f = open('09_ABC085C - Otoshidama.txt', 'r')
 sys.stdin = f
 

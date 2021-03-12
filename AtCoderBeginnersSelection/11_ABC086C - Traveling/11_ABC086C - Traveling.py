@@ -1,5 +1,5 @@
 import sys
-import os
+
 f = open('11_ABC086C - Traveling.txt', 'r')
 sys.stdin = f
 

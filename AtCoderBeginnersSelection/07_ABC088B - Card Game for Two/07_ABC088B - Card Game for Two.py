@@ -1,5 +1,5 @@
 import sys
-import os
+
 f = open('07_ABC088B - Card Game for Two.txt', 'r')
 sys.stdin = f
 

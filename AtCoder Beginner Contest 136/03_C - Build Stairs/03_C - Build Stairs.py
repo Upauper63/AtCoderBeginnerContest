@@ -1,4 +1,4 @@
-import os
+
 import sys
 f = open('03_C - Build Stairs.txt', 'r')
 sys.stdin = f

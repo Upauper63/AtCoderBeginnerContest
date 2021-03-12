@@ -1,5 +1,5 @@
 import sys
-import os
+
 f = open('01_A - Security.txt', 'r')
 sys.stdin = f
 

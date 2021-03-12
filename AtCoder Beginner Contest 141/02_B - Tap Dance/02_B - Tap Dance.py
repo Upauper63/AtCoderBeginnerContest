@@ -1,5 +1,5 @@
 import sys
-import os
+
 f = open('02_B - Tap Dance.txt', 'r')
 sys.stdin = f
 

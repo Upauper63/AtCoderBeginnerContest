@@ -1,5 +1,5 @@
 import sys
-import os
+
 f = open("01_A - Can't Wait for Holiday.txt", 'r')
 sys.stdin = f
 

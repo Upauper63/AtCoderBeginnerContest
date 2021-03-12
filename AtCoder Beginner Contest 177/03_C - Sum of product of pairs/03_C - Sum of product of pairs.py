@@ -1,4 +1,4 @@
-import os
+
 import sys
 f = open('03_C - Sum of product of pairs.txt', 'r')
 sys.stdin = f

@@ -1,4 +1,4 @@
-import os
+
 import sys
 f = open('02_B - Distance.txt', 'r')
 sys.stdin = f

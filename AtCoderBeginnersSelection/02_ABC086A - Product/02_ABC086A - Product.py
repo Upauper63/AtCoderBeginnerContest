@@ -1,5 +1,5 @@
 import sys
-import os
+
 f = open('02_ABC086A - Product.txt', 'r')
 sys.stdin = f
 

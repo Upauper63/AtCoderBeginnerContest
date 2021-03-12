@@ -1,9 +1,9 @@
-import os
+
 import sys
 f = open('03_C - Many Requirements.txt', 'r')
 sys.stdin = f
 
-import os
+
 import sys
 f = open('03_C - Many Requirements.txt', 'r')
 sys.stdin = f
